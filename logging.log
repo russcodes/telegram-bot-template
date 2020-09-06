@@ -1,0 +1,627 @@
+[2020-09-03 23:08:26][ERROR] ERROR TELEGRAM BOT TOKEN: org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error removing old webhook
+[2020-09-03 23:10:07][ERROR] ERROR TELEGRAM BOT TOKEN: org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error removing old webhook
+[2020-09-03 23:11:47][ERROR] ERROR TELEGRAM BOT TOKEN: org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error removing old webhook
+[2020-09-03 23:13:20][ERROR] ERROR TELEGRAM BOT TOKEN: org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error removing old webhook
+[2020-09-03 23:13:28][ERROR] ERROR TELEGRAM BOT TOKEN: org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error removing old webhook
+[2020-09-03 23:14:08][ERROR] ERROR TELEGRAM BOT TOKEN: org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error removing old webhook
+[2020-09-03 23:14:45][ERROR] ERROR TELEGRAM BOT TOKEN: org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error removing old webhook
+[2020-09-03 23:15:38][INFO] SYSTEM: BOT IS WORKING
+[2020-09-03 23:17:08][INFO] SYSTEM: BOT IS WORKING
+[2020-09-03 23:17:09][INFO] Message's been sent
+[2020-09-03 23:34:45][INFO] SYSTEM: BOT IS WORKING
+[2020-09-03 23:34:46][INFO] Incoming message: /start
+[2020-09-03 23:34:59][INFO] SYSTEM: BOT IS WORKING
+[2020-09-03 23:35:00][INFO] Incoming message: /start
+[2020-09-03 23:35:26][INFO] SYSTEM: BOT IS WORKING
+[2020-09-03 23:35:26][INFO] Incoming message: /start
+[2020-09-03 23:51:58][INFO] SYSTEM: BOT IS WORKING
+[2020-09-03 23:51:59][INFO] Incoming message: /start
+[2020-09-04 10:34:29][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 10:34:32][INFO] Incoming message: /start
+[2020-09-04 10:38:42][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 10:38:43][INFO] Incoming message: /start
+[2020-09-04 10:38:50][INFO] Incoming message: /delete
+[2020-09-04 10:38:52][INFO] Incoming message: /start
+[2020-09-04 10:39:45][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 10:39:45][INFO] Incoming message: /start
+[2020-09-04 10:39:47][INFO] Incoming message: /start
+[2020-09-04 10:39:48][INFO] Incoming message: /start
+[2020-09-04 11:17:34][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:17:35][INFO] Incoming message: /inline
+[2020-09-04 11:17:40][INFO] Incoming message: /reply
+[2020-09-04 11:19:14][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:19:15][INFO] Incoming message: /inline
+[2020-09-04 11:19:18][INFO] Incoming message: /inline
+[2020-09-04 11:20:37][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:20:37][INFO] Incoming message: /inline
+[2020-09-04 11:20:40][INFO] Incoming message: /reply
+[2020-09-04 11:20:46][INFO] Incoming message: /remove
+[2020-09-04 11:21:23][INFO] Incoming message: /inline
+[2020-09-04 11:21:26][INFO] Incoming message: /reply
+[2020-09-04 11:21:41][INFO] Incoming message: /start
+[2020-09-04 11:21:51][INFO] Incoming message: /inline
+[2020-09-04 11:22:11][INFO] Incoming query: Third
+[2020-09-04 11:22:28][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:22:29][INFO] Incoming message: /start
+[2020-09-04 11:22:30][INFO] Incoming message: /inline
+[2020-09-04 11:22:42][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:22:47][INFO] Incoming message: /start
+[2020-09-04 11:22:51][INFO] Incoming message: /inline
+[2020-09-04 11:23:19][INFO] Incoming message: /reply
+[2020-09-04 11:24:04][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:24:07][INFO] Incoming message: /inline
+[2020-09-04 11:24:26][INFO] Incoming message: /reply
+[2020-09-04 11:24:41][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:24:45][INFO] Incoming message: /reply
+[2020-09-04 11:25:36][INFO] Incoming message: /start
+[2020-09-04 11:55:21][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:55:28][INFO] Incoming message: /remove
+[2020-09-04 11:55:30][INFO] Incoming message: /inline
+[2020-09-04 11:55:58][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:55:58][INFO] Incoming message: /inline
+[2020-09-04 11:56:15][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:56:15][INFO] Incoming message: /inline
+[2020-09-04 11:56:59][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:56:59][INFO] Incoming message: /inline
+[2020-09-04 11:57:35][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:57:35][INFO] Incoming message: /inline
+[2020-09-04 11:58:16][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:58:16][INFO] Incoming message: /inline
+[2020-09-04 11:59:00][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:59:01][INFO] Incoming message: /inline
+[2020-09-04 11:59:14][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:59:15][INFO] Incoming message: /inline
+[2020-09-04 11:59:34][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:59:34][INFO] Incoming message: /inline
+[2020-09-04 11:59:53][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 11:59:53][INFO] Incoming message: /inline
+[2020-09-04 12:00:05][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:00:06][INFO] Incoming message: /inline
+[2020-09-04 12:00:31][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:00:43][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:00:43][INFO] Incoming message: /inline
+[2020-09-04 12:00:59][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:00:59][INFO] Incoming message: /inline
+[2020-09-04 12:01:16][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:01:16][INFO] Incoming message: /inline
+[2020-09-04 12:01:46][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:01:54][INFO] Incoming message: /inline
+[2020-09-04 12:02:08][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:02:08][INFO] Incoming message: /inline
+[2020-09-04 12:04:14][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:04:15][INFO] Incoming message: /inline
+[2020-09-04 12:14:34][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:14:41][INFO] Incoming message: /inline
+[2020-09-04 12:16:04][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:16:05][INFO] Incoming message: /inline
+[2020-09-04 12:16:23][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:16:23][INFO] Incoming message: /inline
+[2020-09-04 12:16:34][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:16:34][INFO] Incoming message: /inline
+[2020-09-04 12:16:44][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:16:45][INFO] Incoming message: /inline
+[2020-09-04 12:17:35][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:17:35][INFO] Incoming message: /inline
+[2020-09-04 12:18:27][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:18:27][INFO] Incoming message: /inline
+[2020-09-04 12:19:38][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:19:39][INFO] Incoming message: /inline
+[2020-09-04 12:19:59][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:19:59][INFO] Incoming message: /inline
+[2020-09-04 12:20:13][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 12:20:13][INFO] Incoming message: /inline
+[2020-09-04 16:02:35][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:02:35][INFO] Incoming message: /inline
+[2020-09-04 16:02:52][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:02:52][INFO] Incoming message: /inline
+[2020-09-04 16:04:55][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:04:56][INFO] Incoming message: /inline
+[2020-09-04 16:06:52][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:06:53][INFO] Incoming message: /inline
+[2020-09-04 16:07:24][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:07:24][INFO] Incoming message: /inline
+[2020-09-04 16:07:50][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:07:52][INFO] Incoming message: /inline
+[2020-09-04 16:08:21][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:08:21][INFO] Incoming message: /inline
+[2020-09-04 16:09:46][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:09:46][INFO] Incoming message: /inline
+[2020-09-04 16:11:53][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:11:53][INFO] Incoming message: /inline
+[2020-09-04 16:12:07][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:12:09][INFO] Incoming message: /inline
+[2020-09-04 16:12:21][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:12:21][INFO] Incoming message: /inline
+[2020-09-04 16:12:30][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:12:31][INFO] Incoming message: /inline
+[2020-09-04 16:12:42][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:12:42][INFO] Incoming message: /inline
+[2020-09-04 16:13:10][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:13:11][INFO] Incoming message: /inline
+[2020-09-04 16:17:33][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:20:12][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:20:19][INFO] Incoming message: /inline
+[2020-09-04 16:20:27][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:20:27][INFO] Incoming message: /inline
+[2020-09-04 16:30:04][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:30:13][INFO] Incoming message: /inline
+[2020-09-04 16:30:30][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:30:35][INFO] Incoming message: /inline
+[2020-09-04 16:32:17][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:32:18][INFO] Incoming message: /inline
+[2020-09-04 16:33:21][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:33:21][INFO] Incoming message: /start
+[2020-09-04 16:33:30][INFO] Incoming message: /inline
+[2020-09-04 16:44:38][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:44:38][INFO] Incoming message: /start
+[2020-09-04 16:44:39][INFO] Incoming message: /reply
+[2020-09-04 16:44:59][INFO] SYSTEM: BOT IS WORKING
+[2020-09-04 16:45:01][INFO] Incoming message: /reply
+[2020-09-04 16:45:25][INFO] Incoming message: /reply
+[2020-09-05 12:42:54][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 12:42:54][INFO] Incoming message: /reply
+[2020-09-05 12:43:27][INFO] Incoming message: Button
+[2020-09-05 13:58:13][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 13:58:28][INFO] Incoming message: /start
+[2020-09-05 13:58:30][INFO] Incoming query: pageNumber
+[2020-09-05 13:58:30][INFO] Incoming query: right
+[2020-09-05 14:03:00][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:03:01][INFO] Incoming message: /start
+[2020-09-05 14:03:12][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:03:12][INFO] Incoming message: /start
+[2020-09-05 14:03:13][INFO] Incoming query: 1
+[2020-09-05 14:03:16][INFO] Incoming query: 1
+[2020-09-05 14:03:36][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:03:37][INFO] Incoming message: /start
+[2020-09-05 14:03:37][INFO] Incoming query: 1
+[2020-09-05 14:03:39][INFO] Incoming query: 1
+[2020-09-05 14:04:26][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:04:26][INFO] Incoming message: /start
+[2020-09-05 14:04:27][INFO] Incoming query: 1
+[2020-09-05 14:04:32][INFO] Incoming query: 1
+[2020-09-05 14:05:00][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:05:01][INFO] Incoming message: /start
+[2020-09-05 14:05:02][INFO] Incoming query: 1
+[2020-09-05 14:21:45][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:21:47][INFO] Incoming message: /start
+[2020-09-05 14:21:48][INFO] Incoming query: text1
+[2020-09-05 14:24:02][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:24:03][INFO] Incoming message: /start
+[2020-09-05 14:24:04][INFO] Incoming query: text1
+[2020-09-05 14:26:02][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:26:03][INFO] Incoming message: /start
+[2020-09-05 14:26:05][INFO] Incoming query: text1
+[2020-09-05 14:26:59][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:27:00][INFO] Incoming message: /start
+[2020-09-05 14:27:01][INFO] Incoming query: text1
+[2020-09-05 14:27:02][INFO] Incoming message: /start
+[2020-09-05 14:27:03][INFO] Incoming query: text2
+[2020-09-05 14:27:04][INFO] Incoming query: Working hours
+[2020-09-05 14:27:05][INFO] Incoming query: 1
+[2020-09-05 14:27:06][INFO] Incoming query: left_1
+[2020-09-05 14:27:31][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:27:31][INFO] Incoming message: /start
+[2020-09-05 14:27:32][INFO] Incoming query: 1
+[2020-09-05 14:27:33][INFO] Incoming query: left_1
+[2020-09-05 14:27:57][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:27:57][INFO] Incoming message: /start
+[2020-09-05 14:27:59][INFO] Incoming query: 1
+[2020-09-05 14:28:00][INFO] Incoming query: left_1
+[2020-09-05 14:28:01][INFO] Incoming query: left_2
+[2020-09-05 14:28:03][INFO] Incoming query: right_1
+[2020-09-05 14:28:04][INFO] Incoming query: right_2
+[2020-09-05 14:28:52][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:28:52][INFO] Incoming message: /start
+[2020-09-05 14:28:53][INFO] Incoming query: left_1
+[2020-09-05 14:28:53][INFO] Incoming query: left_2
+[2020-09-05 14:28:54][INFO] Incoming query: left_1
+[2020-09-05 14:28:55][INFO] Incoming query: left_2
+[2020-09-05 14:28:56][INFO] Incoming query: right_1
+[2020-09-05 14:28:59][INFO] Incoming query: right_2
+[2020-09-05 14:29:00][INFO] Incoming query: right_1
+[2020-09-05 14:29:01][INFO] Incoming query: right_2
+[2020-09-05 14:32:59][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:32:59][INFO] Incoming message: /start
+[2020-09-05 14:33:00][INFO] Incoming query: right_1
+[2020-09-05 14:33:01][INFO] Incoming query: Contact
+[2020-09-05 14:33:18][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:33:19][INFO] Incoming message: /start
+[2020-09-05 14:33:21][INFO] Incoming query: right_1
+[2020-09-05 14:33:22][INFO] Incoming query: Contact
+[2020-09-05 14:50:01][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:50:01][INFO] Incoming message: /start
+[2020-09-05 14:50:44][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:50:44][INFO] Incoming message: /start
+[2020-09-05 14:55:48][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:55:49][INFO] Incoming message: /start
+[2020-09-05 14:55:51][INFO] Incoming message: /remove
+[2020-09-05 14:56:56][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:56:56][INFO] Incoming message: /start
+[2020-09-05 14:56:57][INFO] Incoming query: right_1
+[2020-09-05 14:56:58][INFO] Incoming query: Contact
+[2020-09-05 14:58:05][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 14:58:05][INFO] Incoming message: /start
+[2020-09-05 14:58:07][INFO] Incoming query: right_1
+[2020-09-05 14:58:09][INFO] Incoming query: Contact
+[2020-09-05 14:58:10][INFO] Incoming query: Back
+[2020-09-05 14:58:12][INFO] Incoming query: Contact
+[2020-09-05 14:58:13][INFO] Incoming query: Back
+[2020-09-05 14:58:16][INFO] Incoming query: right_2
+[2020-09-05 15:00:45][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 15:00:45][INFO] Incoming message: /start
+[2020-09-05 15:00:46][INFO] Incoming query: Menu
+[2020-09-05 15:00:47][INFO] Incoming query: Home
+[2020-09-05 15:01:39][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 15:01:39][INFO] Incoming message: /start
+[2020-09-05 15:01:40][INFO] Incoming query: Working hours
+[2020-09-05 15:01:41][INFO] Incoming query: Home
+[2020-09-05 15:01:41][INFO] Incoming query: Working hours
+[2020-09-05 15:01:43][INFO] Incoming query: Home
+[2020-09-05 15:03:07][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 15:03:07][INFO] Incoming message: /start
+[2020-09-05 15:03:10][INFO] Incoming query: Reservation
+[2020-09-05 15:03:23][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 15:03:24][INFO] Incoming message: /start
+[2020-09-05 15:03:24][INFO] Incoming query: Reservation
+[2020-09-05 15:03:26][INFO] Incoming query: Home
+[2020-09-05 15:09:54][INFO] SYSTEM: BOT IS WORKING
+[2020-09-05 15:09:54][INFO] Incoming message: /start
+[2020-09-05 15:10:03][INFO] Incoming query: Menu
+[2020-09-05 15:10:03][INFO] Incoming query: Home
+[2020-09-05 15:10:04][INFO] Incoming query: Reservation
+[2020-09-05 15:10:05][INFO] Incoming query: Home
+[2020-09-05 15:10:06][INFO] Incoming query: Working hours
+[2020-09-05 15:10:10][INFO] Incoming query: Home
+[2020-09-05 15:10:12][INFO] Incoming query: Degustation
+[2020-09-05 15:10:13][INFO] Incoming query: Home
+[2020-09-05 15:10:14][INFO] Incoming query: 1
+[2020-09-05 15:10:14][INFO] Incoming query: right_1
+[2020-09-05 15:10:15][INFO] Incoming query: right_2
+[2020-09-05 15:10:16][INFO] Incoming query: right_1
+[2020-09-05 15:10:17][INFO] Incoming query: Contact
+[2020-09-05 15:10:18][INFO] Incoming query: Back
+[2020-09-05 15:10:20][INFO] Incoming query: 2
+[2020-09-05 15:10:20][INFO] Incoming query: right_2
+[2020-09-05 15:12:12][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:23:02][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:23:04][INFO] Incoming message: /reply
+[2020-09-06 12:23:28][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:23:29][INFO] Incoming message: /reply
+[2020-09-06 12:24:18][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:24:28][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:24:32][INFO] Incoming message: /reply
+[2020-09-06 12:24:46][INFO] Incoming message: /reply
+[2020-09-06 12:25:01][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:25:02][INFO] Incoming message: /reply
+[2020-09-06 12:27:29][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:27:33][INFO] Incoming message: /start
+[2020-09-06 12:27:43][INFO] Incoming message: /remove
+[2020-09-06 12:27:44][INFO] Incoming message: /start
+[2020-09-06 12:28:58][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:28:58][INFO] Incoming query: right_1
+[2020-09-06 12:28:58][INFO] Incoming message: /start
+[2020-09-06 12:28:59][INFO] Incoming query: right_1
+[2020-09-06 12:29:01][INFO] Incoming query: right_2
+[2020-09-06 12:29:02][INFO] Incoming query: right_1
+[2020-09-06 12:29:03][INFO] Incoming query: 2
+[2020-09-06 12:29:04][INFO] Incoming query: left_2
+[2020-09-06 12:29:36][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:29:36][INFO] Incoming message: /start
+[2020-09-06 12:29:37][INFO] Incoming query: right_1
+[2020-09-06 12:29:38][INFO] Incoming query: right_2
+[2020-09-06 12:29:38][INFO] Incoming query: right_1
+[2020-09-06 12:29:39][INFO] Incoming query: left_2
+[2020-09-06 12:29:40][INFO] Incoming query: left_1
+[2020-09-06 12:29:42][INFO] Incoming query: 2
+[2020-09-06 12:29:43][INFO] Incoming query: right_2
+[2020-09-06 12:29:44][INFO] Incoming query: 1
+[2020-09-06 12:33:09][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:33:09][INFO] Incoming message: /start
+[2020-09-06 12:34:31][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:36:14][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:36:15][INFO] Incoming message: /start
+[2020-09-06 12:36:31][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:36:32][INFO] Incoming message: /start
+[2020-09-06 12:42:30][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:42:31][INFO] Incoming message: /start
+[2020-09-06 12:44:04][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:44:04][INFO] Incoming message: /start
+[2020-09-06 12:44:26][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:44:28][INFO] Incoming message: /start
+[2020-09-06 12:44:34][INFO] Incoming query: right_1
+[2020-09-06 12:44:35][INFO] Incoming query: right_2
+[2020-09-06 12:44:36][INFO] Incoming query: right_1
+[2020-09-06 12:44:37][INFO] Incoming query: right_2
+[2020-09-06 12:45:36][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:45:37][INFO] Incoming message: /start
+[2020-09-06 12:50:27][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:50:28][INFO] Incoming message: /start
+[2020-09-06 12:50:29][INFO] Incoming query: Working hours
+[2020-09-06 12:50:32][INFO] Incoming query: Home
+[2020-09-06 12:51:04][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:51:05][INFO] Incoming message: /start
+[2020-09-06 12:51:05][INFO] Incoming query: Working hours
+[2020-09-06 12:51:28][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:51:28][INFO] Incoming message: /start
+[2020-09-06 12:51:29][INFO] Incoming query: Working hours
+[2020-09-06 12:51:38][INFO] Incoming query: Home
+[2020-09-06 12:51:40][INFO] Incoming query: Working hours
+[2020-09-06 12:52:04][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 12:52:04][INFO] Incoming message: /start
+[2020-09-06 12:52:06][INFO] Incoming query: Working hours
+[2020-09-06 12:52:19][INFO] Incoming query: Home
+[2020-09-06 13:03:50][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:03:51][INFO] Incoming message: /start
+[2020-09-06 13:03:52][INFO] Incoming query: right_1
+[2020-09-06 13:03:55][INFO] Incoming query: Address
+[2020-09-06 13:04:44][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:04:45][INFO] Incoming message: /start
+[2020-09-06 13:04:46][INFO] Incoming query: right_1
+[2020-09-06 13:04:46][INFO] Incoming query: Address
+[2020-09-06 13:04:47][INFO] Incoming query: Back
+[2020-09-06 13:04:48][INFO] Incoming query: Address
+[2020-09-06 13:04:58][INFO] Incoming query: Back
+[2020-09-06 13:05:33][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:05:34][INFO] Incoming message: /start
+[2020-09-06 13:05:35][INFO] Incoming query: right_1
+[2020-09-06 13:05:36][INFO] Incoming query: Contact
+[2020-09-06 13:05:45][INFO] Incoming query: Back
+[2020-09-06 13:05:46][INFO] Incoming query: Address
+[2020-09-06 13:06:00][INFO] Incoming query: Back
+[2020-09-06 13:06:02][INFO] Incoming query: 2
+[2020-09-06 13:06:04][INFO] Incoming query: right_2
+[2020-09-06 13:12:29][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:12:30][INFO] Incoming message: /start
+[2020-09-06 13:14:58][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:14:59][INFO] Incoming message: /start
+[2020-09-06 13:16:03][INFO] Incoming query: Working hours
+[2020-09-06 13:16:25][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:16:26][INFO] Incoming message: /start
+[2020-09-06 13:16:27][INFO] Incoming query: Working hours
+[2020-09-06 13:17:03][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:17:04][INFO] Incoming message: /start
+[2020-09-06 13:17:07][INFO] Incoming query: Working hours
+[2020-09-06 13:17:24][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:17:25][INFO] Incoming message: /start
+[2020-09-06 13:17:27][INFO] Incoming query: Working hours
+[2020-09-06 13:17:47][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:17:47][INFO] Incoming message: /start
+[2020-09-06 13:17:48][INFO] Incoming query: right_1
+[2020-09-06 13:18:41][INFO] Incoming query: Address
+[2020-09-06 13:18:42][INFO] Incoming query: Back
+[2020-09-06 13:18:43][INFO] Incoming query: Contact
+[2020-09-06 13:21:26][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:21:26][INFO] Incoming message: /start
+[2020-09-06 13:21:27][INFO] Incoming query: right_1
+[2020-09-06 13:21:28][INFO] Incoming query: Contact
+[2020-09-06 13:22:31][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:22:31][INFO] Incoming message: /start
+[2020-09-06 13:22:33][INFO] Incoming query: Degustation
+[2020-09-06 13:22:34][INFO] Incoming query: Home
+[2020-09-06 13:22:35][INFO] Incoming query: right_1
+[2020-09-06 13:22:38][INFO] Incoming query: Contact
+[2020-09-06 13:22:43][INFO] Incoming query: Back
+[2020-09-06 13:22:44][INFO] Incoming query: Address
+[2020-09-06 13:22:46][INFO] Incoming query: Back
+[2020-09-06 13:22:48][INFO] Incoming query: 2
+[2020-09-06 13:22:49][INFO] Incoming query: right_2
+[2020-09-06 13:24:50][INFO] Incoming query: right_1
+[2020-09-06 13:30:56][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:30:57][INFO] Incoming message: /start
+[2020-09-06 13:30:58][INFO] Incoming query: right_1
+[2020-09-06 13:30:59][INFO] Incoming query: Address
+[2020-09-06 13:30:59][INFO] Incoming query: Back
+[2020-09-06 13:31:01][INFO] Incoming query: Feedback
+[2020-09-06 13:32:52][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:32:53][INFO] Incoming message: /start
+[2020-09-06 13:32:55][INFO] Incoming message: Hello
+[2020-09-06 13:35:47][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:35:51][INFO] Incoming message: /start
+[2020-09-06 13:35:53][INFO] Incoming query: right_1
+[2020-09-06 13:35:53][INFO] Incoming query: Feedback
+[2020-09-06 13:35:56][INFO] Incoming message: Hello
+[2020-09-06 13:36:11][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:36:11][INFO] Incoming message: /start
+[2020-09-06 13:36:14][INFO] Incoming message: Hello
+[2020-09-06 13:37:43][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:37:52][INFO] Incoming message: Yo
+[2020-09-06 13:37:59][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:38:01][INFO] Incoming message: Yo
+[2020-09-06 13:38:21][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:38:22][INFO] Incoming message: hf
+[2020-09-06 13:38:22][INFO] 475981388
+[2020-09-06 13:39:45][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:39:47][INFO] Incoming message: ghf
+[2020-09-06 13:39:47][INFO] 475981388
+[2020-09-06 13:45:15][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:45:17][INFO] Incoming message: Hello
+[2020-09-06 13:45:17][INFO] 475981388
+[2020-09-06 13:45:55][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:45:59][INFO] Incoming message: Hello
+[2020-09-06 13:45:59][INFO] 475981388
+[2020-09-06 13:46:57][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:47:00][INFO] Incoming message: Hi
+[2020-09-06 13:47:00][INFO] 475981388
+[2020-09-06 13:50:01][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 13:50:05][INFO] Incoming message: /start
+[2020-09-06 13:50:06][INFO] Incoming query: right_1
+[2020-09-06 13:50:07][INFO] Incoming query: Feedback
+[2020-09-06 14:00:09][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:00:11][INFO] Incoming message: /start
+[2020-09-06 14:00:14][INFO] Incoming message: gfdg
+[2020-09-06 14:01:20][INFO] Incoming query: right_1
+[2020-09-06 14:01:21][INFO] Incoming query: Feedback
+[2020-09-06 14:01:26][INFO] Incoming query: Back
+[2020-09-06 14:01:44][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:01:47][INFO] Incoming message: /start
+[2020-09-06 14:01:51][INFO] Incoming query: right_1
+[2020-09-06 14:01:52][INFO] Incoming query: Feedback
+[2020-09-06 14:01:55][INFO] Incoming message: Hello
+[2020-09-06 14:01:55][INFO] 475981388
+[2020-09-06 14:02:54][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:02:54][INFO] Incoming message: /start
+[2020-09-06 14:02:57][INFO] Incoming message: hgjk
+[2020-09-06 14:02:58][INFO] Incoming query: right_1
+[2020-09-06 14:02:59][INFO] Incoming query: Feedback
+[2020-09-06 14:03:03][INFO] Incoming message: jkl
+[2020-09-06 14:03:03][INFO] 475981388
+[2020-09-06 14:06:57][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:07:00][INFO] Incoming message: /start
+[2020-09-06 14:07:02][INFO] Incoming message: fds
+[2020-09-06 14:07:03][INFO] Incoming query: right_1
+[2020-09-06 14:07:04][INFO] Incoming query: Feedback
+[2020-09-06 14:07:06][INFO] Incoming message: hgfhfg
+[2020-09-06 14:07:06][INFO] 475981388
+[2020-09-06 14:11:13][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:11:14][INFO] Incoming message: /start
+[2020-09-06 14:11:38][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:12:05][INFO] Incoming message: gfdg
+[2020-09-06 14:13:29][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:13:31][INFO] Incoming message: /start
+[2020-09-06 14:13:32][INFO] Incoming message: fdsf
+[2020-09-06 14:13:39][INFO] Incoming query: right_1
+[2020-09-06 14:13:40][INFO] Incoming query: Feedback
+[2020-09-06 14:13:43][INFO] Incoming message: fdsfds
+[2020-09-06 14:13:43][INFO] 475981388
+[2020-09-06 14:14:04][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:14:20][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:14:21][INFO] Incoming message: /start
+[2020-09-06 14:14:32][INFO] Incoming message: fds
+[2020-09-06 14:14:33][INFO] Incoming message: fds
+[2020-09-06 14:14:34][INFO] Incoming message: fds
+[2020-09-06 14:14:46][INFO] Incoming query: right_1
+[2020-09-06 14:14:47][INFO] Incoming query: Feedback
+[2020-09-06 14:14:48][INFO] Incoming message: fds
+[2020-09-06 14:14:48][INFO] 475981388
+[2020-09-06 14:16:05][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:16:08][INFO] Incoming message: /start
+[2020-09-06 14:16:14][INFO] Incoming query: Working hours
+[2020-09-06 14:16:16][INFO] Incoming query: Home
+[2020-09-06 14:16:19][INFO] Incoming query: right_1
+[2020-09-06 14:16:22][INFO] Incoming query: Address
+[2020-09-06 14:16:23][INFO] Incoming query: Back
+[2020-09-06 14:16:24][INFO] Incoming query: Contact
+[2020-09-06 14:16:25][INFO] Incoming query: Back
+[2020-09-06 14:16:26][INFO] Incoming query: Feedback
+[2020-09-06 14:16:31][INFO] Incoming query: Back
+[2020-09-06 14:16:32][INFO] Incoming query: Feedback
+[2020-09-06 14:16:34][INFO] Incoming message: fdsfds
+[2020-09-06 14:16:34][INFO] 475981388
+[2020-09-06 14:18:25][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:18:27][INFO] Incoming message: /start
+[2020-09-06 14:18:29][INFO] Incoming query: right_1
+[2020-09-06 14:18:31][INFO] Incoming query: Contact
+[2020-09-06 14:18:32][INFO] Incoming query: Back
+[2020-09-06 14:18:33][INFO] Incoming query: Address
+[2020-09-06 14:18:34][INFO] Incoming query: Back
+[2020-09-06 14:18:35][INFO] Incoming query: Feedback
+[2020-09-06 14:18:51][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:18:52][INFO] Incoming message: /start
+[2020-09-06 14:18:54][INFO] Incoming query: right_1
+[2020-09-06 14:18:58][INFO] Incoming query: Feedback
+[2020-09-06 14:19:13][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:19:14][INFO] Incoming message: /start
+[2020-09-06 14:19:14][INFO] Incoming query: right_1
+[2020-09-06 14:19:15][INFO] Incoming query: Feedback
+[2020-09-06 14:19:44][INFO] Incoming message: /start
+[2020-09-06 14:23:08][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:23:09][INFO] Incoming message: /start
+[2020-09-06 14:24:13][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:24:13][INFO] Incoming message: /start
+[2020-09-06 14:25:15][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:25:17][INFO] Incoming message: /start
+[2020-09-06 14:28:47][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:28:48][INFO] Incoming message: /start
+[2020-09-06 14:29:21][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:29:22][INFO] Incoming message: /start
+[2020-09-06 14:30:11][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:30:11][INFO] Incoming message: /start
+[2020-09-06 14:30:30][INFO] Incoming query: right_1
+[2020-09-06 14:30:39][INFO] Incoming query: Contact
+[2020-09-06 14:30:44][INFO] Incoming query: Back
+[2020-09-06 14:31:23][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:31:23][INFO] Incoming message: /start
+[2020-09-06 14:31:24][INFO] Incoming query: right_1
+[2020-09-06 14:31:25][INFO] Incoming query: Contact
+[2020-09-06 14:32:07][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:32:07][INFO] Incoming message: /start
+[2020-09-06 14:32:08][INFO] Incoming query: right_1
+[2020-09-06 14:32:09][INFO] Incoming query: left_2
+[2020-09-06 14:32:10][INFO] Incoming query: Working hours
+[2020-09-06 14:32:11][INFO] Incoming query: Home
+[2020-09-06 14:32:13][INFO] Incoming query: right_1
+[2020-09-06 14:32:13][INFO] Incoming query: left_2
+[2020-09-06 14:32:27][INFO] Incoming query: right_1
+[2020-09-06 14:32:28][INFO] Incoming query: Feedback
+[2020-09-06 14:32:30][INFO] Incoming query: Back
+[2020-09-06 14:32:31][INFO] Incoming query: Address
+[2020-09-06 14:32:33][INFO] Incoming query: Back
+[2020-09-06 14:32:35][INFO] Incoming query: Contact
+[2020-09-06 14:33:01][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:33:02][INFO] Incoming message: /start
+[2020-09-06 14:33:03][INFO] Incoming query: right_1
+[2020-09-06 14:33:05][INFO] Incoming query: Contact
+[2020-09-06 14:33:11][INFO] Incoming query: Back
+[2020-09-06 14:33:12][INFO] Incoming query: right_2
+[2020-09-06 14:33:13][INFO] Incoming query: right_1
+[2020-09-06 14:33:14][INFO] Incoming query: Address
+[2020-09-06 14:33:16][INFO] Incoming query: Back
+[2020-09-06 14:33:17][INFO] Incoming query: Feedback
+[2020-09-06 14:33:18][INFO] Incoming query: Back
+[2020-09-06 14:33:19][INFO] Incoming query: right_2
+[2020-09-06 14:33:21][INFO] Incoming query: 1
+[2020-09-06 14:33:22][INFO] Incoming query: right_1
+[2020-09-06 14:33:22][INFO] Incoming query: 2
+[2020-09-06 14:33:23][INFO] Incoming query: right_2
+[2020-09-06 14:35:35][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:35:35][INFO] Incoming message: /start
+[2020-09-06 14:35:46][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:35:46][INFO] Incoming message: /start
+[2020-09-06 14:36:17][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:36:18][INFO] Incoming message: /start
+[2020-09-06 14:36:22][INFO] Incoming query: right_1
+[2020-09-06 14:36:23][INFO] Incoming query: right_2
+[2020-09-06 14:36:26][INFO] Incoming query: Working hours
+[2020-09-06 14:36:26][INFO] Incoming query: Home
+[2020-09-06 14:36:27][INFO] Incoming query: right_1
+[2020-09-06 14:36:28][INFO] Incoming query: Feedback
+[2020-09-06 14:36:29][INFO] Incoming query: Back
+[2020-09-06 14:36:30][INFO] Incoming query: Contact
+[2020-09-06 14:36:31][INFO] Incoming query: Back
+[2020-09-06 14:36:31][INFO] Incoming query: Address
+[2020-09-06 14:36:35][INFO] Incoming query: Back
+[2020-09-06 14:36:36][INFO] Incoming query: right_2
+[2020-09-06 14:38:40][ERROR] ERROR TELEGRAM BOT TOKEN: org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error removing old webhook
+[2020-09-06 14:38:53][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:38:53][INFO] Incoming message: /start
+[2020-09-06 14:38:55][INFO] Incoming query: 1
+[2020-09-06 14:38:56][INFO] Incoming query: right_1
+[2020-09-06 14:38:56][INFO] Incoming query: 2
+[2020-09-06 14:38:57][INFO] Incoming query: left_2
+[2020-09-06 14:38:57][INFO] Incoming query: left_1
+[2020-09-06 14:39:00][INFO] Incoming query: left_2
+[2020-09-06 14:39:01][INFO] Incoming query: right_1
+[2020-09-06 14:39:02][INFO] Incoming query: Contact
+[2020-09-06 14:39:02][INFO] Incoming query: Back
+[2020-09-06 14:39:04][INFO] Incoming query: Feedback
+[2020-09-06 14:39:05][INFO] Incoming query: Back
+[2020-09-06 14:39:05][INFO] Incoming query: Address
+[2020-09-06 14:39:06][INFO] Incoming query: Back
+[2020-09-06 14:39:07][INFO] Incoming query: right_2
+[2020-09-06 14:40:08][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:40:09][INFO] Incoming message: /start
+[2020-09-06 14:40:17][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:40:18][INFO] Incoming message: /start
+[2020-09-06 14:40:32][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:40:32][INFO] Incoming query: right_1
+[2020-09-06 14:40:33][INFO] Incoming query: right_2
+[2020-09-06 14:41:01][INFO] SYSTEM: BOT IS WORKING
+[2020-09-06 14:41:01][INFO] Incoming message: /start
+[2020-09-06 14:41:02][INFO] Incoming query: right_1
+[2020-09-06 14:41:06][INFO] Incoming query: right_2
+[2020-09-06 14:41:07][INFO] Incoming query: right_1
+[2020-09-06 14:41:08][INFO] Incoming query: Feedback
+[2020-09-06 14:41:09][INFO] Incoming query: Back
+[2020-09-06 14:41:10][INFO] Incoming query: right_2
+[2020-09-06 14:41:11][INFO] Incoming query: right_1
+[2020-09-06 14:41:12][INFO] Incoming query: right_2
